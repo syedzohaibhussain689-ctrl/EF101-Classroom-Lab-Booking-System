@@ -1,0 +1,6 @@
+{
+  "name": "EF101 Classroom & Lab Booking System",
+  "description": "University classroom and laboratory reservation system with real-time schedule conflict prevention, weekly schedule views, and admin room management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
